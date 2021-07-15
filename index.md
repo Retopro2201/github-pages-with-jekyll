@@ -1,5 +1,5 @@
 ---
 title: "Welcome to my blog"
 ---
-**Morat** nos presenta hoy su nuevo exito llamado[*Idiota*](https://www.youtube.com/watch?v=wxIU03Llxwg)
-I'm glad you are here. I plan to talk about ...
+**Morat** nos presenta hoy su nuevo exito llamado [*Idiota*](https://www.youtube.com/watch?v=wxIU03Llxwg)
+
